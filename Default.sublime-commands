@@ -1,0 +1,17 @@
+[
+    {
+        "caption": "Start Intero",
+        "command": "start_intero",
+        "args": {}
+    },
+    {
+        "caption": "Stop Intero",
+        "command": "stop_intero",
+        "args": {}
+    },
+    {
+        "caption": "Install Intero",
+        "command": "install_intero",
+        "args": {}
+    }
+]
